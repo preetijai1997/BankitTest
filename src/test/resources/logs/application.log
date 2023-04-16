@@ -1,0 +1,9 @@
+15:34:50,724 %5 devpinoyLogger:45 - Config file is loaded
+15:34:50,728 %5 devpinoyLogger:61 - OR file is loaded
+15:34:53,877 %5 devpinoyLogger:74 - ChromeDriver is initialize
+15:34:57,296 %5 devpinoyLogger:86 - Open the URL
+15:34:57,673 %5 devpinoyLogger:17 - Frame is initialize
+15:34:57,821 %5 devpinoyLogger:20 - Username is entered
+15:34:57,912 %5 devpinoyLogger:23 - Password is entered
+15:35:02,077 %5 devpinoyLogger:26 - Login button is clicked
+15:35:02,126 %5 devpinoyLogger:30 - Button visibility
